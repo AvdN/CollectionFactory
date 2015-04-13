@@ -1,7 +1,7 @@
 CollectionFactory
 =================
 
-[![Build Status](https://travis-ci.org/elliotchance/CollectionFactory.svg?branch=master)](https://travis-ci.org/elliotchance/CollectionFactory)
+[![Build Status](https://travis-ci.org/AvdN/CollectionFactory.svg?branch=master)](https://travis-ci.org/AvdN/CollectionFactory)
 
 Translation between native collections in Objective-C and serialized formats
 like JSON.
